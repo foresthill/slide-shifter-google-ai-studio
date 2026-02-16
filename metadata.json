@@ -1,0 +1,5 @@
+{
+  "name": "SlideShifter",
+  "description": "Convert PDF presentation slides into editable PowerPoint (.pptx) files using Gemini Vision to preserve layout and content.",
+  "requestFramePermissions": []
+}
